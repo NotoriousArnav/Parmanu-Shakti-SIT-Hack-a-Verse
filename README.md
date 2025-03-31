@@ -72,6 +72,7 @@ We think this is **moderately to highly feasible**, **provided we maximize AI co
 ---
 
 ## **Government vs. Private Sector Feasibility Comparison**
+
 | Factor         | Government Feasibility | Private Sector Feasibility |
 |---------------|-----------------------|----------------------------|
 | **Cost**        | **High**, requires state funding | **Moderate**, can utilize cloud AI
